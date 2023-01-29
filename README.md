@@ -3,7 +3,7 @@
 
 ------
 
-💻 Full-stack engineer at <a href="https://onereach.ai/">OneReach.ai</a> 😎 Big fan of automation and AI 🔥 Aspiring for CTO / Enterpreneur 🎧 DJ at weekends
+Full-stack engineer at <a href="https://onereach.ai/">OneReach.ai</a> <img style="margin: 0 5px;" width="20" src="./assets/logotype.png"/> Big fan of automation and AI 🔥 Aspiring for CTO / Enterpreneur 🎧 DJ at weekends (Deep House, Melodic House, Jackin' House)
 
 Little intro
 -----------------
@@ -54,7 +54,17 @@ Tools, Platforms, Frameworks and Libraries
 </p>
 <p>
 
-Let's connect
+###### Learning: WebGL, Animations, 3D. 
+
+Specialities
+----
+
+<img width="20px" src="./assets/codeable.webp"/> Wide experience with Woocommerce and Wordpress development. Vetted successfully by <a href="https://www.codeable.io/">Codeable</a> </br>
+💡 Ideas creator, problem solver. </br>
+🚊 Automation lover. </br>
+🎨 Artistic sense, detail-oriented, emphatic and open personality.
+
+Happy to connect!
 -------
 
   <a href="mailto:tomek@sobolew.ski?subject=[Github] Hello Tommy !"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -62,16 +72,6 @@ Let's connect
   <a href="https://twitter.com/sobolew_ski"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
-
-###### Learning: WebGL, Animations, 3D. 
-
-Specialities
-----
-
-- 🔥 Wide experience with Woocommerce and Wordpress development. Vetted successfully by Codeable.
-- 🔥 Ideas creator. 
-- 🔥 Automation lover.
-- 🔥 Artistic sense, detail-oriented, emphatic and open personality.
 
 A bit of stats
 ----
