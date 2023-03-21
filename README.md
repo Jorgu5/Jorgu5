@@ -1,7 +1,10 @@
 ### Hey there, I'm Tommy! 👋 
 ##### He / him 🇵🇱  Polish
 
-Full-stack engineer at <a href="https://onereach.ai/">OneReach.ai</a> <img style="margin: 0 5px;" width="20" src="./assets/logotype.png"/> MAIN STACK => PHP & Wordpress & JS & TS Big fan of automation and AI 🔥 Aspiring for CTO / Enterpreneur 🎧 DJ at weekends (Deep House, Melodic House, Jackin' House)
+* <img style="margin: 0 5px;" width="20" src="./assets/logotype.png"/> Full-stack engineer at <a href="https://onereach.ai/">OneReach.ai</a>
+* Current Stack: PHP & Wordpress & JS & TS
+* Automation, Hyperautomation & AI
+* 🎧 DJ at weekends (Deep House, Melodic House, Jackin' House)
 
 ### Little intro
 -----------------
