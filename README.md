@@ -1,7 +1,7 @@
 ### Hey there, I'm Tommy! 👋 
 ##### He / him 🇵🇱  Polish
 
-* <img style="margin: 0 5px;" width="20" src="./assets/logotype.png"/> Senior Web Developer at Codility</a>
+* Senior Web Developer at <a href="https://www.codility.com/">Codility</a>
 * Current Stack: PHP & Wordpress & JS & TS
 * Automation, Hyperautomation & AI
 * 🎧 DJ at weekends (Deep House, Melodic House, Jackin' House)
