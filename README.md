@@ -2,7 +2,7 @@
 ##### He / him 🇵🇱  Polish
 
 * Senior Web Developer at <a href="https://www.codility.com/">Codility</a>
-* Current Stack: PHP & Wordpress & JS & TS
+* Current Stack: Typescript, Rust, PHP. 
 
 ### Little intro
 -----------------
