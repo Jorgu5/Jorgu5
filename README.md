@@ -3,15 +3,11 @@
 
 * Senior Web Developer at <a href="https://www.codility.com/">Codility</a>
 * Current Stack: PHP & Wordpress & JS & TS
-* Automation, Hyperautomation & AI
-* 🎧 DJ at weekends (Deep House, Melodic House, Jackin' House)
 
 ### Little intro
 -----------------
 
-I specialize in working with startups in their seed stage, and also small to mid-size companies I pride myself on communicating directly and collaborating with key decision-makers throughout the development process.
-
-I am constantly seeking new challenges and opportunities to further my knowledge and skills in the field, currently looking for a team to join as a co-founder/CTO to a cool SaaS project.
+Full-Stack Developer, highly adaptable and quick learner with a proven track record in dynamic environments. Strong problem-solving and communication skills. Thrives in fast-paced scenarios, seamlessly transitioning between projects and technologies.
 
 #### Fundamental Stack
 <p>
