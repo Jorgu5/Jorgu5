@@ -2,7 +2,9 @@
 ##### He / him 🇵🇱  Polish
 
 * Senior Web Developer at <a href="https://www.codility.com/">Codility</a>
-* Current Stack: Typescript, Rust, PHP. 
+* Programming languages: Typescript, Go, PHP. 
+* Databases PostgreSQL, MongoDB and mySQL.
+* Next.js / Wordpress / Astro
 
 ### Little intro
 -----------------
